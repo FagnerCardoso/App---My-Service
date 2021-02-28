@@ -1,0 +1,12 @@
+{
+  "name": "my_service",
+  "displayName": "my_service",
+  "expo": {
+    "name": "my_service",
+    "slug": "my_service",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
